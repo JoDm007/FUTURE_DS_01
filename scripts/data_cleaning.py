@@ -40,6 +40,6 @@ def clean_sales_data(input_path, output_path):
 
 if __name__ == "__main__":
     clean_sales_data(
-        input_path="../data/raw/Sample - Superstore.csv",
-        output_path="../data/processed/cleaned_superstore.csv"
+        input_path="data/raw/Sample_Superstore.csv",
+        output_path="data/processed/cleaned_superstore2.csv"
     )
