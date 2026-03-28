@@ -1,2 +1,7 @@
 F_DS_01_env/
 data/
+
+# Outputs temporaires
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
