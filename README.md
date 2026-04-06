@@ -31,7 +31,7 @@ FUTURE_DS_01/
 ├── tableau/                     # Tableau dashboards
 │   └── sales_dashboard.twbx
 │
-├── scripts/                     # Reusable Python scripts
+├── src/                     # Reusable Python scripts
 │   ├── data_cleaning.py
 │   └── analysis_functions.py
 │
@@ -59,6 +59,8 @@ FUTURE_DS_01/
 
 
 
+```
+Structure encours
 ====================================================================
 FUTURE_DS_01/
 │
@@ -113,3 +115,5 @@ FUTURE_DS_01/
     ├── test_data_cleaning.py          # Tests unitaires (optionnel mais pro)
     └── test_metrics.py
 ====================================================================
+
+```
