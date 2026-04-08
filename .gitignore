@@ -1,9 +1,9 @@
 F_DS_01_env/
 data/
 
+video/Demo_FUTURE_DS_01.mp4
+
 # Outputs temporaires
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
-
-README.md
