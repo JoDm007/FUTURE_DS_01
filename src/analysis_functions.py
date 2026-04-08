@@ -2,7 +2,7 @@
 # This script contains reusable functions for data analysis and visualization
 #Autor: Joseph DATE-MASSE
 
-import panda as pd
+import pandas as pd
 
 def get_global_metric(df):
     """ Calcule des metriques globale"""

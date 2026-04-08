@@ -20,19 +20,15 @@ FUTURE_DS_01/
 │   └── 03_key_metrics_calculation.ipynb  # Business metrics calculation
 │
 ├── reports/                     # Final reports and visualizations
-│   ├── sales_analysis_report.pdf
+│   ├── sales_analysis_report.md
 │   └── images/                  # Generated charts and graphs
-│       ├── revenue_trend.png
-│       ├── top_products.png
-│       ├── sales_by_category.png
-│       ├── sales_by_region.png
-│       └── dashboard_overview.png
 │
 ├── tableau/                     # Tableau dashboards
 │   └── sales_dashboard.twbx
 │
-├── scripts/                     # Reusable Python scripts
+├── src/                     # Reusable Python scripts
 │   ├── data_cleaning.py
+│   ├── metrics.py
 │   └── analysis_functions.py
 │
 ├── F_DS_01_env/
@@ -54,6 +50,10 @@ FUTURE_DS_01/
 3. View final report in `reports/` directory
 
 ## 👤 Auteur
+<<<<<<< HEAD
 Joseph DATE-MASSE - Intern Data Science & Analytics @ Future Interns
 
 
+=======
+[Joseph DATE-MASSE] - Intern Data Science & Analytics @ Future Interns
+>>>>>>> devlop
